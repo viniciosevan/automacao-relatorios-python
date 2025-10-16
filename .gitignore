@@ -1,0 +1,6 @@
+pycache/
+*.pyc
+reports/
+*.exe
+.env
+venv/

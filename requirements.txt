@@ -1,0 +1,7 @@
+﻿pandas
+openpyxl
+reportlab
+schedule
+smtplib
+email
+PySimpleGUI
